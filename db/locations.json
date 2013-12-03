@@ -1,0 +1,42 @@
+{
+    "0": {
+    	"name": "Manam Thai Food",
+		"address": "Rosenheimer Straße 34, 81669 München",
+		"category": "assets/delicious.png",
+		"tips": "Most authentic Thai food in Munich!<br>Try #31 (spicy pork)!",
+		"recommendedBy": "Hannah",
+		"likedBy": "James, Kalle, Marcus"
+    },
+    "1": {
+    	"name": "Room for Imagination",
+		"address": "48.152087, 11.590383",
+		"category": "assets/inspirational.png",
+		"tips": "There will be dragons.",
+		"recommendedBy": "Anonymous",
+		"likedBy": "Lorenzo, Anne, Trent, Shruti"
+    },
+    "2": {
+    	"name": "Englischer Garten",
+		"address": "48.146561, 11.586285",
+		"category": "assets/inspirational.png",
+		"tips": "Nudity, Lots of it<br>Perfect on a sunny day",
+		"recommendedBy": "Anonymous",
+		"likedBy": "Trent, Steffi, Martin, Ferdi, Volker, Barbara"
+    },
+    "3": {
+    	"name": "Haus der Kunst & Goldene Bar",
+		"address": "Prinzregentenstraße 1, München",
+		"category": "assets/inspirational.png",
+		"tips": "Delicious drinks meet inspiring art",
+		"recommendedBy": "Hannah",
+		"likedBy": "Axel"
+    },
+    "4": {
+    	"name": "Burger House",
+		"address": "Franziskanerstraße 15, München",
+		"category": "assets/delicious.png",
+		"tips": "Best Burger in town<br>Try classic burger<br>They only do Fritz Kola",
+		"recommendedBy": "Lorenzo",
+		"likedBy": "Jure, Andreas, Kosta, Kalle"
+    }
+}
